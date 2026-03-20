@@ -1,2 +1,3 @@
-# next-knowledge-base-nwba
-Automated issue comment bot repository
+# Next Knowledge Base Nwba
+
+Automated issue comment bot repository.
